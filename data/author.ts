@@ -68,10 +68,10 @@ export const authorData: Author[] = [
     URL: "https://coinpayportal.com",
   },
   {
-    type: "organization",
-    name: "ServMe IT Limited",
-    id: "servmeit",
-    URL: "https://www.servmeit.co.nz",
+      type: "organization",
+      name: "servmeit",
+      id: "servmeit",
+      URL: "https://www.servmeit.co.nz",
   },
 ];
 

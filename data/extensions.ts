@@ -1139,7 +1139,7 @@ This extension is licensed under the MIT License. See the [LICENSE](https://gith
       },
     ],
     icon_url:
-      "https://www.tppwholesale.com.au/wp-content/uploads/2022/12/TPP-logo-basic.png",
+      "https://raw.githubusercontent.com/grant436/fossbilling-tpp-wholesale/main/tpp-image.png",
     website: "https://github.com/grant436/fossbilling-tpp-wholesale",
     readme: `# TPP Wholesale Registrar for FOSSBilling
 
@@ -1214,7 +1214,7 @@ Apache 2.0`,
       },
     ],
     icon_url:
-        "https://raw.githubusercontent.com/grant436/fossbilling-ispmanager/main/logo-ispmgr.svg",
+        "https://raw.githubusercontent.com/grant436/fossbilling-ispmanager/main/ispmanager-image.png",
     website: "https://github.com/grant436/fossbilling-ispmanager",
     readme: `# ISPmanager 6 Server Manager for FOSSBilling
 
